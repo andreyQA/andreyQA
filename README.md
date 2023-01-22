@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 :link: Тестовый проект: <a target="_blank" href="https://github.com/andreyQA/hh_test_project">hh_test_project</a></br></br>
 
 #### Технологии и инструменты
-
-<p  align="center">
-
 <code><img width="5%" title="IntelliJ IDEA" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Idea.svg"></code>
 <code><img width="5%" title="Java" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Java.svg"></code>
 <code><img width="5%" title="Selenoid" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Selenoid.svg"></code>
@@ -44,7 +41,7 @@ Here are some ideas to get you started:
 <code><img width="5%" title="Jenkins" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Jenkins_logo.svg"></code>
 <code><img width="5%" title="Jira" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Jira.svg"></code>
 <code><img width="5%" title="Telegram" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Telegram.svg"></code>
-</p>
+
 :heavy_check_mark: Созданы UI автотесты для портала поиска работы HH.ru.</br></br>
 
 #### Реализованные проверки:
@@ -61,17 +58,13 @@ Here are some ideas to get you started:
 - [x] Тест-кейсы авто- и ручного тестирования
 - [x] Уведомления в Telegram 
 
-
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="[https://github.com/andreyQA/rest_api_tests](https://github.com/andreyQA/rest_api_tests/tree/models)">rest_api_tests</a></br></br>
-<p  align="center">
-
+:link: Тестовый проект: <a target="_blank" href="https://github.com/andreyQA/rest_api_tests/tree/models">rest_api_tests</a></br></br>
 <code><img width="5%" title="Java" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Java.svg"></code>
 <code><img width="5%" title="Gradle" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Gradle.svg"></code>
 <code><img width="5%" title="Junit5" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Junit5.svg"></code>
 <code><img width="5%" title="Allure Report" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Allure.svg"></code>
 <code><img width="5%" title="Jenkins" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Jenkins_logo.svg"></code>
-</p>
 
 :heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://reqres.in/</br></br>
 :triangular_flag_on_post: Что особенного:
