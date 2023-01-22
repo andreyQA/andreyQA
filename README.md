@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/andreyQA/rest_api_tests/tree/models">rest_api_tests</a></br></br>
+
+#### Технологии и инструменты
 <code><img width="5%" title="Java" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Java.svg"></code>
 <code><img width="5%" title="Gradle" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Gradle.svg"></code>
 <code><img width="5%" title="Junit5" src="https://github.com/andreyQA/hh_test_project/blob/master/images/logo/Junit5.svg"></code>
